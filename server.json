@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "id": 6,
+      "name": "do caraioo",
+      "description": "esse e baum",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "price": "5,00",
+      "available": true
     }
   ]
 }
